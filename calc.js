@@ -30,4 +30,4 @@ if (calcular=="s"){
         };      
     }
 else
-    console.log("Hasta luego.");
+    console.log("Hasta luego."); //actualizacion de calculadora
