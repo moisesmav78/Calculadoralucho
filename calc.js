@@ -31,3 +31,4 @@ if (calcular=="s"){
     }
 else
     console.log("Hasta luego."); //actualizacion de calculadora
+//Calculadora de lucho y Moises
